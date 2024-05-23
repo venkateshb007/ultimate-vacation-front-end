@@ -10,7 +10,7 @@ class Contact extends React.Component{
                             <div className="col-md-5">
                                 <div className="card">
                                     <div className="card-body">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62211.44473994531!2d77.61869840791917!3d12.958070861496306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13b4551d0957%3A0x597894d77e1e4919!2sMarathahalli%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1706605294299!5m2!1sen!2sin" width="410" height="330" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
+                                    <iframe title="Contact Form" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62211.44473994531!2d77.61869840791917!3d12.958070861496306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13b4551d0957%3A0x597894d77e1e4919!2sMarathahalli%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1706605294299!5m2!1sen!2sin" width="410" height="330" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
                                     </div>
                                 </div>
                             </div>
